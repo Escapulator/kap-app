@@ -1,0 +1,31 @@
+class AppAssets {
+  static const String home = 'assets/images/home.png';
+  static const String student = 'assets/icons/student.png';
+  static const String instructor = 'assets/icons/instructor.png';
+  static const String kap = 'assets/images/kap.png';
+  static const String cameraman = 'assets/images/cameraman.png';
+  static const String email = 'assets/icons/email.png';
+  static const String nosemask = 'assets/images/nosemask.png';
+  static const String passwords = 'assets/icons/passwords.png';
+  static const String password = 'assets/icons/password.png';
+  static const String edit = 'assets/icons/edit.png';
+  static const String homes = 'assets/icons/home.png';
+  static const String chat = 'assets/icons/chats.png';
+  static const String liveStream = 'assets/icons/liveStreams.png';
+  static const String settings = 'assets/icons/settings.png';
+  static const String send = 'assets/icons/send.png';
+  static const String add = 'assets/icons/add.png';
+  static const String qna = 'assets/icons/qna.png';
+  static const String video = 'assets/images/Video.png';
+  static const String liveclass = 'assets/images/liveclass.png';
+  static const String aftereffect = 'assets/images/aftereffect.png';
+  static const String forward = 'assets/icons/forward.png';
+  static const String logout = 'assets/icons/logout.png';
+  static const String learner = 'assets/images/learner.png';
+  static const String szitch = 'assets/icons/switch.png';
+  static const String uploadIcon = 'assets/icons/uploadIcon.png';
+  static const String graph = 'assets/images/graph.png';
+  static const String eedit = 'assets/icons/eedit.png';
+  static const String notification = 'assets/icons/Notification.png';
+  static const String perfs = 'assets/icons/perfs.png';
+}

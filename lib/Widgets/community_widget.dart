@@ -77,9 +77,9 @@ class _CommunityWidgetState extends State<CommunityWidget> {
                     ],
                   ),
                   gapTiny,
-                  Text(
+                 const Text(
                       'Continue new you declared differed learning bringing honoured. At mean mind so upon they rent am walk.',
-                      style: const TextStyle(
+                      style:  TextStyle(
                           fontSize: 14,
                           fontWeight: FontWeight.w400,
                           color: AppColors.someText)),

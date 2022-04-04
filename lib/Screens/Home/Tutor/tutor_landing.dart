@@ -4,7 +4,6 @@ import 'package:kap/Constants/app_assets.dart';
 import 'package:kap/Constants/app_color.dart';
 import 'package:kap/Constants/ui_helper.dart';
 import 'package:kap/Screens/Home/Tutor/new_course.dart';
-import 'package:kap/Shared/custom_appbar.dart';
 import 'package:kap/Widgets/tutor_course_widget.dart';
 
 class TutorLanding extends StatelessWidget {
